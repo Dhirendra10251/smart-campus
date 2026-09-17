@@ -1,6 +1,6 @@
 # Smart Campus Resource & Service Management System
 
-> **A Terminal-Runnable, Modular Java Application for the VITyarthi Flipped Course Evaluation**  
+> **A CLI, Modular Java Application for the VITyarthi Flipped Course Evaluation**  
 > *Developed with Java 17+, Maven, SQLite (JDBC), and JUnit 5.*
 
 ---
@@ -216,10 +216,3 @@ smart-campus/
 
 ---
 
-## 📜 Evaluation Checklist & Viva Defense
-
-- **Clear Problem Statement:** Solves real campus facility management bottlenecks.
-- **Academic Rigor:** Fully illustrates Inheritance, Polymorphism, Abstract classes, Interfaces, Custom Exceptions, Multithreading synchronization, Generics, Collections (`ArrayList`, `HashMap`, `Vector`, `Stack`), Java Streams, and JDBC.
-- **Robust Error Handling:** Zero uncaught exceptions; graceful user feedback on invalid inputs, conflicts, and duplicate values.
-- **Data Persistence:** Relational database backed by SQLite with referential integrity foreign keys.
-- **Extensible & Clean:** Zero hardcoded paths, pure dependency injection in `Main.java`, clean modular structure.
