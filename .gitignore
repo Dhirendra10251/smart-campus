@@ -1,0 +1,37 @@
+# Build artifacts
+target/
+*.class
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+*.eclipse
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database file (auto-generated at runtime)
+data/campus.db
+data/campus.db-shm
+data/campus.db-wal
+
+# Logs (generated at runtime)
+data/logs/
+
+# Reports (generated at runtime)
+data/reports/
+
+# Backups (generated at runtime)
+data/backups/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Local environment
+*.env
+.env.local
